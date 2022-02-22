@@ -1,4 +1,13 @@
 1. .dream-big{background-position: right}
 2. .section{display:flex}
 3. .half-width{width:50%}
-4.  
+4.  /* offset-x | offset-y | blur-radius | color */
+	box-shadow: 10px 5px 5px black;
+5. #web-dev{
+    
+    border-image: linear-gradient(rgb(255, 139, 	118),orange);
+    border-image-slice: 1;
+    border-left: 10px solid;
+}
+6.text-align:center
+7.text-align:justify
